@@ -62,4 +62,4 @@ if ((nombre == "Juan" || nombre == "Pedro") && (edad >= 18)){
 }
 
 /*const numero = 10; 
-const noEsNumero10 = !numero;*/
+const noEsNumero10 = !numero;*/ 
