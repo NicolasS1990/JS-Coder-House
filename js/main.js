@@ -61,5 +61,5 @@ if ((nombre == "Juan" || nombre == "Pedro") && (edad >= 18)){
     console.log("Acceso denegado");
 }
 
-const numero = 10; 
-const noEsNumero10 = 
+/*const numero = 10; 
+const noEsNumero10 = !numero;*/
